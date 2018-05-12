@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1590
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Rutherford_Crockett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41803#Joan-of-the-Sword-Hand
 gutenberg_issued: '2013-01-08'
 gutenberg_type: Text
 identifiers:
